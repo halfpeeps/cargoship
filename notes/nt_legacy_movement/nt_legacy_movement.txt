@@ -1,0 +1,48 @@
+Create
+
+//const
+default_move_speed = 2
+
+
+//var
+move_speed = default_move_speed
+move_direction_x = 0
+move_direction_y = 0
+curr_press_x = 0
+curr_press_y = 0
+
+
+Step
+
+//input
+curr_press_x = 0
+curr_press_y = 0
+if(keyboard_check(ord("W")))
+{
+	curr_press_y = -1
+}
+
+if(keyboard_check(ord("A")))
+{
+	curr_press_x = -1
+}
+
+if(keyboard_check(ord("S")))
+{
+	curr_press_y = 1
+}
+
+if(keyboard_check(ord("D")))
+{
+	curr_press_x = 1
+}
+
+//movement
+move_direction_x = curr_press_x
+move_direction_y = curr_press_y
+
+if position_empty(move_direction_x * move_speed, move_direction_y * move_speed)
+{
+	x = x + (move_direction_x * move_speed)
+	y = y + (move_direction_y * move_speed)
+}
