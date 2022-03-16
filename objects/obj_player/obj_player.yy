@@ -36,7 +36,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_rpg_basic_player",
+  "name": "obj_player",
   "tags": [],
   "resourceType": "GMObject",
 }
