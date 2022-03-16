@@ -3,6 +3,7 @@
     {"id":{"name":"obj_rpg_basic_player","path":"objects/obj_rpg_basic_player/obj_rpg_basic_player.yy",},"order":1,},
     {"id":{"name":"obj_par_collision","path":"objects/obj_par_collision/obj_par_collision.yy",},"order":2,},
     {"id":{"name":"spr_rpg_basic_player","path":"sprites/spr_rpg_basic_player/spr_rpg_basic_player.yy",},"order":1,},
+    {"id":{"name":"fnt_pixel1","path":"fonts/fnt_pixel1/fnt_pixel1.yy",},"order":0,},
     {"id":{"name":"nt_legacy_movement","path":"notes/nt_legacy_movement/nt_legacy_movement.yy",},"order":0,},
     {"id":{"name":"spr_rpg_basic_wall","path":"sprites/spr_rpg_basic_wall/spr_rpg_basic_wall.yy",},"order":0,},
     {"id":{"name":"obj_rpg_basic_wall","path":"objects/obj_rpg_basic_wall/obj_rpg_basic_wall.yy",},"order":0,},
