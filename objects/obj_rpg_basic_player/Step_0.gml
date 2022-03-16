@@ -3,6 +3,10 @@ if(null_input_check.ctrlcheck_interact_menu = 1)
 	in_menu = !in_menu
 }
 
+if(null_input_check.ctrlcheck_test_text = 1)
+{
+	scr_ui_vo_box("Hello World")
+}
 
 ///movement
 if(in_menu == 0)

@@ -1,0 +1,1 @@
+obj_ui_vo_box_text = ""
