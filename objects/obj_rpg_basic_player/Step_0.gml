@@ -1,4 +1,4 @@
-if(keyboard_check_pressed(ord("E")))
+if(null_input_check.ctrlcheck_interact_menu = 1)
 {
 	in_menu = !in_menu
 }
