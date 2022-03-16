@@ -31,11 +31,10 @@ y = y + (yTo - y) / 25;
 //	}
 //}
 
-//if(!instance_exists(obj_player_dead) and !instance_exists(obj_wheelui_pausemenu))
-//{
-//	//clamp cam to room edge
-//	x = clamp(x, view_w_half, room_width - view_w_half)
-//	y = clamp(y, view_h_half, room_height - view_h_half)
+
+//clamp cam to room edge
+x = clamp(x, view_w_half, room_width - view_w_half)
+y = clamp(y, view_h_half, room_height - view_h_half)
 	
 	//updated cam view
 camera_set_view_pos(cam, x - view_w_half, y - view_h_half);
