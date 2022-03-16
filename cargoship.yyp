@@ -1,7 +1,8 @@
 {
   "resources": [
     {"id":{"name":"obj_rpg_basic_player","path":"objects/obj_rpg_basic_player/obj_rpg_basic_player.yy",},"order":1,},
-    {"id":{"name":"obj_par_collision","path":"objects/obj_par_collision/obj_par_collision.yy",},"order":2,},
+    {"id":{"name":"null_par_collision","path":"objects/null_par_collision/null_par_collision.yy",},"order":0,},
+    {"id":{"name":"null_input_check","path":"objects/null_input_check/null_input_check.yy",},"order":1,},
     {"id":{"name":"spr_rpg_basic_player","path":"sprites/spr_rpg_basic_player/spr_rpg_basic_player.yy",},"order":1,},
     {"id":{"name":"fnt_pixel1","path":"fonts/fnt_pixel1/fnt_pixel1.yy",},"order":0,},
     {"id":{"name":"nt_legacy_movement","path":"notes/nt_legacy_movement/nt_legacy_movement.yy",},"order":0,},
@@ -40,6 +41,7 @@
     {"folderPath":"folders/Animation Curves.yy","order":12,"resourceVersion":"1.0","name":"Animation Curves","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Notes.yy","order":13,"resourceVersion":"1.0","name":"Notes","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Extensions.yy","order":14,"resourceVersion":"1.0","name":"Extensions","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Objects/null_obj.yy","order":3,"resourceVersion":"1.0","name":"null_obj","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},

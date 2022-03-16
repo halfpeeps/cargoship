@@ -1,16 +1,10 @@
 {
-  "spriteId": {
-    "name": "spr_rpg_basic_wall",
-    "path": "sprites/spr_rpg_basic_wall/spr_rpg_basic_wall.yy",
-  },
-  "solid": true,
+  "spriteId": null,
+  "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": {
-    "name": "null_par_collision",
-    "path": "objects/null_par_collision/null_par_collision.yy",
-  },
+  "parentObjectId": null,
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -27,11 +21,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "null_obj",
+    "path": "folders/Objects/null_obj.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_rpg_basic_wall",
+  "name": "null_input_check",
   "tags": [],
   "resourceType": "GMObject",
 }

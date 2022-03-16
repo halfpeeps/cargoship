@@ -21,11 +21,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "null_obj",
+    "path": "folders/Objects/null_obj.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_par_collision",
+  "name": "null_par_collision",
   "tags": [],
   "resourceType": "GMObject",
 }
