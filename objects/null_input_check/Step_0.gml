@@ -9,7 +9,7 @@ else
 }
 
 ///Text Test Check
-if(keyboard_check_pressed(ord("Q")))
+if(keyboard_check_pressed(vk_space))
 {
 	ctrlcheck_test_text = 1
 }

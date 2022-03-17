@@ -1,0 +1,42 @@
+{
+  "spriteId": {
+    "name": "spr_wheelui_wheel1_segment_d",
+    "path": "sprites/spr_wheelui_wheel1_segment_d/spr_wheelui_wheel1_segment_d.yy",
+  },
+  "solid": false,
+  "visible": true,
+  "spriteMaskId": {
+    "name": "spr_dev_lvl_mec_wheel_segment_e",
+    "path": "sprites/spr_dev_lvl_mec_wheel_segment_e/spr_dev_lvl_mec_wheel_segment_e.yy",
+  },
+  "persistent": false,
+  "parentObjectId": {
+    "name": "obj_mec_wheel_segment_a_3",
+    "path": "objects/obj_mec_wheel_segment_a_3/obj_mec_wheel_segment_a_3.yy",
+  },
+  "physicsObject": false,
+  "physicsSensor": false,
+  "physicsShape": 1,
+  "physicsGroup": 0,
+  "physicsDensity": 0.5,
+  "physicsRestitution": 0.1,
+  "physicsLinearDamping": 0.1,
+  "physicsAngularDamping": 0.1,
+  "physicsFriction": 0.2,
+  "physicsStartAwake": true,
+  "physicsKinematic": false,
+  "physicsShapePoints": [],
+  "eventList": [
+    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
+  "properties": [],
+  "overriddenProperties": [],
+  "parent": {
+    "name": "obj_mec_wheel",
+    "path": "folders/Legacy/wheelui/obj_player/obj_mec_wheel.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "obj_mec_wheel_segment_d",
+  "tags": [],
+  "resourceType": "GMObject",
+}
