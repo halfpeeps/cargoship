@@ -1,8 +1,5 @@
 {
-  "spriteId": {
-    "name": "spr_rpg_basic_wall",
-    "path": "sprites/spr_rpg_basic_wall/spr_rpg_basic_wall.yy",
-  },
+  "spriteId": null,
   "solid": true,
   "visible": true,
   "spriteMaskId": null,

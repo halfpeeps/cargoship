@@ -4,9 +4,9 @@
     "path": "sprites/spr_light_point/spr_light_point.yy",
   },
   "solid": false,
-  "visible": true,
+  "visible": false,
   "spriteMaskId": null,
-  "persistent": false,
+  "persistent": true,
   "parentObjectId": {
     "name": "obj_light",
     "path": "objects/obj_light/obj_light.yy",

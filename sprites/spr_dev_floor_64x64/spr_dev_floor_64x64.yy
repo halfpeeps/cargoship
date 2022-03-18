@@ -97,8 +97,8 @@
     "resourceType": "GMNineSliceData",
   },
   "parent": {
-    "name": "spr_dev",
-    "path": "folders/Sprites/spr_dev.yy",
+    "name": "dev",
+    "path": "folders/Sprites/dev.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_dev_floor_64x64",

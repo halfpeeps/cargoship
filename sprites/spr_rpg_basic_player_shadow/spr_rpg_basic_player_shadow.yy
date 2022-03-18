@@ -69,8 +69,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "dev",
+    "path": "folders/Sprites/dev.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_rpg_basic_player_shadow",
