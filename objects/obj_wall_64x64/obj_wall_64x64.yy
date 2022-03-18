@@ -1,9 +1,9 @@
 {
   "spriteId": {
-    "name": "spr_rpg_basic_wall",
-    "path": "sprites/spr_rpg_basic_wall/spr_rpg_basic_wall.yy",
+    "name": "spr_dev_wall_64x64",
+    "path": "sprites/spr_dev_wall_64x64/spr_dev_wall_64x64.yy",
   },
-  "solid": true,
+  "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
@@ -27,11 +27,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Legacy",
-    "path": "folders/Legacy.yy",
+    "name": "building",
+    "path": "folders/Objects/building.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_rpg_basic_wall",
+  "name": "obj_wall_64x64",
   "tags": [],
   "resourceType": "GMObject",
 }
