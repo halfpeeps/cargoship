@@ -24,8 +24,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "null_obj",
-    "path": "folders/Objects/null_obj.yy",
+    "name": "null",
+    "path": "folders/Objects/null.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_camera",

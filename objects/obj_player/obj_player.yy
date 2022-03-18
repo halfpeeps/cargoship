@@ -3,7 +3,7 @@
     "name": "spr_rpg_basic_player",
     "path": "sprites/spr_rpg_basic_player/spr_rpg_basic_player.yy",
   },
-  "solid": true,
+  "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
