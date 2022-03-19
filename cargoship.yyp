@@ -2,6 +2,7 @@
   "resources": [
     {"id":{"name":"null_data_hold","path":"objects/null_data_hold/null_data_hold.yy",},"order":2,},
     {"id":{"name":"light_ignore_shadow_caster","path":"scripts/light_ignore_shadow_caster/light_ignore_shadow_caster.yy",},"order":4,},
+    {"id":{"name":"spr_dino_large","path":"sprites/spr_dino_large/spr_dino_large.yy",},"order":10,},
     {"id":{"name":"nt_engine_info","path":"notes/nt_engine_info/nt_engine_info.yy",},"order":3,},
     {"id":{"name":"obj_mec_wheel_segment_e","path":"objects/obj_mec_wheel_segment_e/obj_mec_wheel_segment_e.yy",},"order":8,},
     {"id":{"name":"light_create_line","path":"scripts/light_create_line/light_create_line.yy",},"order":8,},
