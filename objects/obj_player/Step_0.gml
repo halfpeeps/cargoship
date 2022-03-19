@@ -1,8 +1,11 @@
+///Check to see if in menu
 if(null_input_check.ctrlcheck_interact_menu = 1)
 {
 	in_menu = !in_menu
 }
 
+
+///debug open dialogue box
 if(null_input_check.ctrlcheck_test_text = 1)
 {
 	scr_ui_vo_box("Hello World")

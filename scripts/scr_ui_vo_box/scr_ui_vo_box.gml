@@ -1,3 +1,4 @@
+///spawn vo box and parse text to null data hold
 function scr_ui_vo_box(_text)
 {
 	if(!instance_exists(obj_ui_vo_box))

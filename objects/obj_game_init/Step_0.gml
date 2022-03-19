@@ -1,4 +1,6 @@
-image_index = 0
+//init code, keep even beween stages (1-8)
+
+
 if(load_count = 0)
 {
 	if(stage1 = false)
@@ -29,40 +31,77 @@ if(load_count = 10)
 		///init step 3
 		instance_create_layer(0, 0, "layer_null", null_data_hold)
 		image_index = 3
+		stage3 = true
+		
+		
+		
 	}
 }
 
 if(load_count = 15)
 {
-	///init step 4
-	
+	if(stage4 = false)
+	{
+		///init step 4
+		image_index = 4
+		stage4 = true
+		
+		
+	}
 }
 
 if(load_count = 20)
 {
-	///init step 5
-	instance_create_layer(0, 0, "layer_null", null_par_collision)
-	image_index = 5
+	if(stage5 = false)
+	{
+		///init step 5
+		instance_create_layer(0, 0, "layer_null", null_par_collision)
+		image_index = 5
+		stage5 = true
+		
+		
+		
+	}
 }
 
 if(load_count = 25)
 {
-	///init step 6
-	instance_create_layer(0, 0, "layer_lighting", obj_lighting_init)
-	image_index = 6
+	if(stage6 = false)
+	{
+		///init step 6
+		instance_create_layer(0, 0, "layer_lighting", obj_lighting_init)
+		image_index = 6
+		stage6 = true
+		
+		
+	}
 }
 
 if(load_count = 30)
 {
-	///init step 7
-
+	if(stage7 = false)
+	{
+		///init step 7
+		image_index = 7
+		stage7 = true
+		
+		
+		
+	}
 }
 
 if(load_count = 35)
 {
-	///init step 8
-	instance_create_layer(0, 0, "layer_lighting", obj_light_player)
-	image_index = 8
+	if(stage8 = false)
+	{
+		///init step 8
+		instance_create_layer(0, 0, "layer_lighting", obj_light_player)
+		image_index = 8
+		stage8 = true
+		
+		
+		
+	}
 }
 
 if(load_count = 40)

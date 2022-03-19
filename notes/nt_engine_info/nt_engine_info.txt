@@ -1,0 +1,30 @@
+								A list of file types and standard suffixes
+								
+-(Never use spaces in asset names)
+
+Animation Curves			anim_
+Extensions					ext_
+Fonts						fnt_
+Notes						nt_
+Objects						obj_
+Paths						pth_
+Rooms						rm_
+Scripts						scr_
+Sequences					seq_
+Shaders						shdr_
+Sound						snd_
+Sprites						spr_
+Tile Sets					tle_
+Timelines					tmln_
+
+
+
+												Important Info
+-Please comment your code so others can understand it
+-Use the correct suffexes (seen above)
+-Try and keep the files tidy
+-If you are going to rewrite a large portion of someone elses code, copy it into \notes\legacy_code\
+-subsystems are imported from other libs.  Don't touch them (we have no idea what magic makes them work)
+-If you are importing a font, make sure we are licensed to use it
+-Copy fonts to project if importing
+-When making new rooms, duplicate rm_template (creating a new room from scratch will break a lot of code)
