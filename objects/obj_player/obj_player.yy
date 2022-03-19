@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_rpg_basic_player",
-    "path": "sprites/spr_rpg_basic_player/spr_rpg_basic_player.yy",
+    "name": "spr_dino_large",
+    "path": "sprites/spr_dino_large/spr_dino_large.yy",
   },
   "solid": false,
   "visible": true,

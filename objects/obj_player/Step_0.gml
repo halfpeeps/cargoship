@@ -76,6 +76,6 @@ if(in_menu == 0)
 	}
 	else{
 	    sprinting = false;
-	    playerSpeed = 5;
+	    playerSpeed = 3;
 	}
 }
