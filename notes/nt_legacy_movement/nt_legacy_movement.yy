@@ -1,7 +1,7 @@
 {
   "parent": {
-    "name": "Notes",
-    "path": "folders/Notes.yy",
+    "name": "legacy_code",
+    "path": "folders/Notes/legacy_code.yy",
   },
   "resourceVersion": "1.1",
   "name": "nt_legacy_movement",
