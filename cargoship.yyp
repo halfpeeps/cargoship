@@ -6,6 +6,7 @@
     {"id":{"name":"obj_mec_wheel_segment_e","path":"objects/obj_mec_wheel_segment_e/obj_mec_wheel_segment_e.yy",},"order":8,},
     {"id":{"name":"light_create_line","path":"scripts/light_create_line/light_create_line.yy",},"order":8,},
     {"id":{"name":"spr_init_loading","path":"sprites/spr_init_loading/spr_init_loading.yy",},"order":1,},
+    {"id":{"name":"spr_person","path":"sprites/spr_person/spr_person.yy",},"order":10,},
     {"id":{"name":"obj_wall_64x64","path":"objects/obj_wall_64x64/obj_wall_64x64.yy",},"order":1,},
     {"id":{"name":"spr_wheelui_dev_icon_a","path":"sprites/spr_wheelui_dev_icon_a/spr_wheelui_dev_icon_a.yy",},"order":0,},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":0,},
