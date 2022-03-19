@@ -99,6 +99,7 @@
     {"id":{"name":"shadow_casters_exist","path":"scripts/shadow_casters_exist/shadow_casters_exist.yy",},"order":8,},
     {"id":{"name":"spr_wheelui_wheel1_segment_b","path":"sprites/spr_wheelui_wheel1_segment_b/spr_wheelui_wheel1_segment_b.yy",},"order":2,},
     {"id":{"name":"fnt_pixel1","path":"fonts/fnt_pixel1/fnt_pixel1.yy",},"order":0,},
+    {"id":{"name":"spr_dino","path":"sprites/spr_dino/spr_dino.yy",},"order":9,},
     {"id":{"name":"light_acknowledge_shadow_caster","path":"scripts/light_acknowledge_shadow_caster/light_acknowledge_shadow_caster.yy",},"order":0,},
     {"id":{"name":"spr_rpg_basic_player_shadow","path":"sprites/spr_rpg_basic_player_shadow/spr_rpg_basic_player_shadow.yy",},"order":2,},
     {"id":{"name":"light_create","path":"scripts/light_create/light_create.yy",},"order":5,},
