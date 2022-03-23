@@ -4,7 +4,7 @@
     "path": "sprites/spr_dev_lvl_change/spr_dev_lvl_change.yy",
   },
   "solid": false,
-  "visible": true,
+  "visible": false,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": null,
