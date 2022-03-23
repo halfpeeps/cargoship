@@ -1,16 +1,13 @@
 {
   "spriteId": {
-    "name": "spr_light_point",
-    "path": "sprites/spr_light_point/spr_light_point.yy",
+    "name": "spr_wall_light_1",
+    "path": "sprites/spr_wall_light_1/spr_wall_light_1.yy",
   },
   "solid": false,
-  "visible": false,
+  "visible": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": {
-    "name": "obj_light",
-    "path": "objects/obj_light/obj_light.yy",
-  },
+  "parentObjectId": null,
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -23,15 +20,17 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "lighting",
-    "path": "folders/Objects/lighting.yy",
+    "name": "lights",
+    "path": "folders/Objects/building/lights.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_light_default",
+  "name": "obj_wall_light_1",
   "tags": [],
   "resourceType": "GMObject",
 }
