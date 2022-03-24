@@ -107,7 +107,7 @@ if(load_count = 35)
 if(load_count = 40)
 {
 	image_index = 9
-	room_goto(asset_get_index("rm_dev1"))
+	room_goto(asset_get_index("rm_intro"))
 }
 
 load_count = load_count + 1
