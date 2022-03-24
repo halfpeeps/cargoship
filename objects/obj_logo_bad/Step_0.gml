@@ -8,3 +8,8 @@ else
 }
 
 step_count = step_count + 1
+
+if(step_count > 1700)
+{
+	room_goto(rm_dev1)
+}
