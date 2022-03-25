@@ -33,8 +33,18 @@ y = y + (yTo - y) / 25;
 
 
 //clamp cam to room edge
-x = clamp(x, view_w_half, room_width - (room_width / 2))
-y = clamp(y, view_h_half, room_height - (room_height / 2))
+x = clamp(x, view_w_half, room_width - (view_w_half))
+y = clamp(y, view_h_half, room_height - (view_h_half))
+
+if(view_w > room_width)
+{
+	x = room_width / 2
+}
+
+if(view_h > room_height)
+{
+	y = room_height / 2
+}
 	
 	//updated cam view
 camera_set_view_pos(cam, x - view_w_half, y - view_h_half);
