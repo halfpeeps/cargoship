@@ -1,13 +1,16 @@
 {
   "spriteId": {
-    "name": "spr_logo_bad",
-    "path": "sprites/spr_logo_bad/spr_logo_bad.yy",
+    "name": "spr_dev_wall_bottom",
+    "path": "sprites/spr_dev_wall_bottom/spr_dev_wall_bottom.yy",
   },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "null_par_collision",
+    "path": "objects/null_par_collision/null_par_collision.yy",
+  },
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -21,17 +24,16 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "intro",
-    "path": "folders/Objects/intro.yy",
+    "name": "building",
+    "path": "folders/Objects/building.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_logo_bad",
+  "name": "obj_wall_bottom",
   "tags": [],
   "resourceType": "GMObject",
 }
