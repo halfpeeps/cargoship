@@ -22,6 +22,7 @@ else
 		}
 		else
 		{
+			show_debug_message("fade_to_blank complete")
 			waited = true
 		}
 	}
@@ -38,4 +39,3 @@ if(waited = true)
 		instance_destroy(self)
 	}
 }
-show_debug_message("fade_to_black in progress")

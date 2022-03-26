@@ -1,16 +1,13 @@
 {
   "spriteId": {
-    "name": "spr_elev_door_left",
-    "path": "sprites/spr_elev_door_left/spr_elev_door_left.yy",
+    "name": "spr_dev_elev_trigger",
+    "path": "sprites/spr_dev_elev_trigger/spr_dev_elev_trigger.yy",
   },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": {
-    "name": "obj_shadow_caster",
-    "path": "objects/obj_shadow_caster/obj_shadow_caster.yy",
-  },
+  "parentObjectId": null,
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -25,17 +22,16 @@
   "physicsShapePoints": [],
   "eventList": [
     {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
-  "properties": [
-    {"varType":3,"value":"0","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":"door_vert","tags":[],"resourceType":"GMObjectProperty",},
-  ],
+  "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "elevators",
-    "path": "folders/Objects/building/elevators.yy",
+    "name": "triggers",
+    "path": "folders/Objects/triggers.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_elev_door_left",
+  "name": "obj_elev_door_trigger",
   "tags": [],
   "resourceType": "GMObject",
 }

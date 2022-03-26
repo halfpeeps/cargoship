@@ -79,3 +79,10 @@ if(in_menu == 0)
 	    playerSpeed = 3;
 	}
 }
+
+//create larger hitbox
+if(!instance_exists(obj_player_hitbox))
+{
+	instance_create_layer(x, y, "layer_player", obj_player_hitbox)
+	show_debug_message("player_hitbox created")
+}

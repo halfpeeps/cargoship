@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_elev_door_left",
-    "path": "sprites/spr_elev_door_left/spr_elev_door_left.yy",
+    "name": "spr_elev_door_right",
+    "path": "sprites/spr_elev_door_right/spr_elev_door_right.yy",
   },
   "solid": false,
   "visible": true,
@@ -35,7 +35,7 @@
     "path": "folders/Objects/building/elevators.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_elev_door_left",
+  "name": "obj_elev_door_right",
   "tags": [],
   "resourceType": "GMObject",
 }
