@@ -3,6 +3,8 @@ if(trigger = true)
 	if(obj_transition_fade_to_black.image_alpha > 0.99)
 	{
 		scr_lvl_change(changeto, spawn_x, spawn_y)
+		show_debug_message("Loading map ")
+		show_debug_message(changeto)
 	}
 }
 

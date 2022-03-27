@@ -6,3 +6,5 @@ wait_time = 0.01
 wait_count = 0
 fade_in = false
 waited = false
+
+show_debug_message("fade_to_black in progress")
