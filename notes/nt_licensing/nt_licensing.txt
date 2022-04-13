@@ -6,3 +6,4 @@ Sounds
 Sprites
 	Retrocade Media	(001)
 	Caz (002)
+	Kicked-in-Teeth (003)
