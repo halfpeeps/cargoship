@@ -213,7 +213,6 @@
     {"id":{"name":"s_47ts_8px","path":"sprites/s_47ts_8px/s_47ts_8px.yy",},"order":9,},
     {"id":{"name":"spr_wall_light_1","path":"sprites/spr_wall_light_1/spr_wall_light_1.yy",},"order":0,},
     {"id":{"name":"spr_wall_light_2","path":"sprites/spr_wall_light_2/spr_wall_light_2.yy",},"order":1,},
-    {"id":{"name":"Object49","path":"objects/Object49/Object49.yy",},"order":15,},
     {"id":{"name":"spr_wheelui_wheel1_segment_b","path":"sprites/spr_wheelui_wheel1_segment_b/spr_wheelui_wheel1_segment_b.yy",},"order":2,},
     {"id":{"name":"spr__lic002_paper3","path":"sprites/spr__lic002_paper3/spr__lic002_paper3.yy",},"order":65,},
     {"id":{"name":"spr__lic002_bread1","path":"sprites/spr__lic002_bread1/spr__lic002_bread1.yy",},"order":44,},
