@@ -26,6 +26,7 @@
   ],
   "properties": [
     {"varType":5,"value":"rm_dev1","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":"changeto","tags":[],"resourceType":"GMObjectProperty",},
+    {"varType":2,"value":"rm_dev_name not set","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":"rm_dev_name","tags":[],"resourceType":"GMObjectProperty",},
     {"varType":1,"value":"0","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":"spawn_x","tags":[],"resourceType":"GMObjectProperty",},
     {"varType":1,"value":"0","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":"spawn_y","tags":[],"resourceType":"GMObjectProperty",},
     {"varType":6,"value":"\"none\"","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[

@@ -22,7 +22,7 @@ else
 		}
 		else
 		{
-			show_debug_message("fade_to_blank complete")
+			show_debug_message("fade_to_black complete")
 			waited = true
 		}
 	}

@@ -7,11 +7,15 @@ if(load_count = 0)
 	{
 		///init step 1
 		show_debug_message("Game Version " + null_game_ver.ver)
+		show_debug_message("OS Version " + null_game_ver.os_ver_str)
 		instance_create_layer(0, 0, "layer_null", null_input_check)
 		image_index = 1
 		stage1 = true
 		
 		
+		
+		
+		show_debug_message("Loading 10%")
 	}
 }
 
@@ -23,6 +27,11 @@ if(load_count = 5)
 		//instance_create_layer(0, 0, "layer_null", null_gameinfo)
 		stage2 = true
 		image_index = 2
+		
+		
+		
+		
+		show_debug_message("Loading 20%")
 	}
 }
 
@@ -37,6 +46,9 @@ if(load_count = 10)
 		
 		
 		
+		
+		
+		show_debug_message("Loading 30%")
 	}
 }
 
@@ -49,6 +61,10 @@ if(load_count = 15)
 		stage4 = true
 		
 		
+		
+		
+		
+		show_debug_message("Loading 50%")
 	}
 }
 
@@ -63,6 +79,10 @@ if(load_count = 20)
 		
 		
 		
+		
+		
+		
+		show_debug_message("Loading 60%")
 	}
 }
 
@@ -76,6 +96,10 @@ if(load_count = 25)
 		stage6 = true
 		
 		
+		
+		
+		
+		show_debug_message("Loading 70%")
 	}
 }
 
@@ -89,6 +113,11 @@ if(load_count = 30)
 		
 		
 		
+		
+		
+		
+		
+		show_debug_message("Loading 80%")
 	}
 }
 
@@ -103,12 +132,18 @@ if(load_count = 35)
 		
 		
 		
+		
+		
+		
+		
+		show_debug_message("Loading 90%")
 	}
 }
 
 if(load_count = 40)
 {
 	image_index = 9
+	show_debug_message("Loading Complete")
 	room_goto(asset_get_index(first_room))
 }
 
