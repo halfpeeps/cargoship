@@ -132,6 +132,7 @@
     {"id":{"name":"spr__lic002_pepper1","path":"sprites/spr__lic002_pepper1/spr__lic002_pepper1.yy",},"order":76,},
     {"id":{"name":"spr__lic002_skull","path":"sprites/spr__lic002_skull/spr__lic002_skull.yy",},"order":60,},
     {"id":{"name":"spr__lic002_fish","path":"sprites/spr__lic002_fish/spr__lic002_fish.yy",},"order":16,},
+    {"id":{"name":"nt_ver","path":"notes/nt_ver/nt_ver.yy",},"order":5,},
     {"id":{"name":"obj_ui_vo_box","path":"objects/obj_ui_vo_box/obj_ui_vo_box.yy",},"order":0,},
     {"id":{"name":"spr_lic004_studio_sheet","path":"sprites/spr_lic004_studio_sheet/spr_lic004_studio_sheet.yy",},"order":20,},
     {"id":{"name":"spr_lic004_3dwalls_sheet","path":"sprites/spr_lic004_3dwalls_sheet/spr_lic004_3dwalls_sheet.yy",},"order":1,},
