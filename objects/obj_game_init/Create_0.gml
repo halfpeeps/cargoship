@@ -8,4 +8,4 @@ stage6 = false
 stage7 = false
 stage8 = false
 
-first_room = "rm_dev1"
+first_room = "rm_dev3"

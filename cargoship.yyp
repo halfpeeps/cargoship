@@ -133,7 +133,7 @@
     {"id":{"name":"light_cull","path":"scripts/light_cull/light_cull.yy",},"order":0,},
     {"id":{"name":"spr_light_line","path":"sprites/spr_light_line/spr_light_line.yy",},"order":4,},
     {"id":{"name":"light_maintain_shadow_map","path":"scripts/light_maintain_shadow_map/light_maintain_shadow_map.yy",},"order":2,},
-    {"id":{"name":"rm_dev_3","path":"rooms/rm_dev_3/rm_dev_3.yy",},"order":7,},
+    {"id":{"name":"rm_dev3","path":"rooms/rm_dev3/rm_dev3.yy",},"order":7,},
     {"id":{"name":"spr__lic002_shell1","path":"sprites/spr__lic002_shell1/spr__lic002_shell1.yy",},"order":90,},
     {"id":{"name":"rm_tiletest","path":"rooms/rm_tiletest/rm_tiletest.yy",},"order":5,},
     {"id":{"name":"light_update","path":"scripts/light_update/light_update.yy",},"order":4,},
@@ -353,7 +353,7 @@
     {"roomId":{"name":"rm_dev2","path":"rooms/rm_dev2/rm_dev2.yy",},},
     {"roomId":{"name":"rm_tiletest","path":"rooms/rm_tiletest/rm_tiletest.yy",},},
     {"roomId":{"name":"rm_intro","path":"rooms/rm_intro/rm_intro.yy",},},
-    {"roomId":{"name":"rm_dev_3","path":"rooms/rm_dev_3/rm_dev_3.yy",},},
+    {"roomId":{"name":"rm_dev3","path":"rooms/rm_dev3/rm_dev3.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":0,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
