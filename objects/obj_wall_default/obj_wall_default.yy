@@ -1,13 +1,16 @@
 {
   "spriteId": {
-    "name": "spr_dev_floor_64x64",
-    "path": "sprites/spr_dev_floor_64x64/spr_dev_floor_64x64.yy",
+    "name": "spr_wall_default",
+    "path": "sprites/spr_wall_default/spr_wall_default.yy",
   },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "null_par_collision",
+    "path": "objects/null_par_collision/null_par_collision.yy",
+  },
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -27,10 +30,10 @@
   "overriddenProperties": [],
   "parent": {
     "name": "walls",
-    "path": "folders/Legacy/walls.yy",
+    "path": "folders/Objects/building/walls.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_floor",
+  "name": "obj_wall_default",
   "tags": [],
   "resourceType": "GMObject",
 }

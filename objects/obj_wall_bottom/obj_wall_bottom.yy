@@ -29,8 +29,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "building",
-    "path": "folders/Objects/building.yy",
+    "name": "walls",
+    "path": "folders/Legacy/walls.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_wall_bottom",
