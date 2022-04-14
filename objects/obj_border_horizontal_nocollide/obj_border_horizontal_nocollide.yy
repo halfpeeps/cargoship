@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_dev_elev_trigger",
-    "path": "sprites/spr_dev_elev_trigger/spr_dev_elev_trigger.yy",
+    "name": "spr_border_horizontal",
+    "path": "sprites/spr_border_horizontal/spr_border_horizontal.yy",
   },
   "solid": false,
   "visible": true,
@@ -22,16 +22,15 @@
   "physicsShapePoints": [],
   "eventList": [
     {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "triggers",
-    "path": "folders/Objects/triggers.yy",
+    "name": "borders",
+    "path": "folders/Objects/building/walls/borders.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_elev_door_trigger",
+  "name": "obj_border_horizontal_nocollide",
   "tags": [],
   "resourceType": "GMObject",
 }
