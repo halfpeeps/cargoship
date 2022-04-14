@@ -98,7 +98,7 @@
     {"id":{"name":"spr_lic004_shop_sheet","path":"sprites/spr_lic004_shop_sheet/spr_lic004_shop_sheet.yy",},"order":15,},
     {"id":{"name":"spr_lic004_condomunium_sheet","path":"sprites/spr_lic004_condomunium_sheet/spr_lic004_condomunium_sheet.yy",},"order":4,},
     {"id":{"name":"obj_light_default","path":"objects/obj_light_default/obj_light_default.yy",},"order":0,},
-    {"id":{"name":"spr_wall_test","path":"sprites/spr_wall_test/spr_wall_test.yy",},"order":0,},
+    {"id":{"name":"spr_wall_test","path":"sprites/spr_wall_test/spr_wall_test.yy",},"order":2,},
     {"id":{"name":"spr__lic002_potato","path":"sprites/spr__lic002_potato/spr__lic002_potato.yy",},"order":71,},
     {"id":{"name":"spr_lic004_walls_sheet","path":"sprites/spr_lic004_walls_sheet/spr_lic004_walls_sheet.yy",},"order":2,},
     {"id":{"name":"spr__lic002_herb1","path":"sprites/spr__lic002_herb1/spr__lic002_herb1.yy",},"order":23,},

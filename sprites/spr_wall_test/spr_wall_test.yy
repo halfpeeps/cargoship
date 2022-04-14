@@ -115,8 +115,8 @@
     "resourceType": "GMNineSliceData",
   },
   "parent": {
-    "name": "walls",
-    "path": "folders/Sprites/building/walls.yy",
+    "name": "Legacy",
+    "path": "folders/Legacy.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_wall_test",
