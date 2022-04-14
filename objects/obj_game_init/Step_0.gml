@@ -6,6 +6,7 @@ if(load_count = 0)
 	if(stage1 = false)
 	{
 		///init step 1
+		show_debug_message("Game Version " + null_game_ver.ver)
 		instance_create_layer(0, 0, "layer_null", null_input_check)
 		image_index = 1
 		stage1 = true
@@ -19,6 +20,7 @@ if(load_count = 5)
 	if(stage2 = false)
 	{
 		///init step 2
+		//instance_create_layer(0, 0, "layer_null", null_gameinfo)
 		stage2 = true
 		image_index = 2
 	}
