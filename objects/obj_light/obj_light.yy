@@ -133,8 +133,8 @@
   ],
   "overriddenProperties": [],
   "parent": {
-    "name": "Lighting",
-    "path": "folders/Objects/licensed/Lighting.yy",
+    "name": "lic001_Lighting",
+    "path": "folders/Objects/licensed/lic001_Lighting.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_light",

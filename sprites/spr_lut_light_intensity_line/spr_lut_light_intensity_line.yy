@@ -70,7 +70,7 @@
   "nineSlice": null,
   "parent": {
     "name": "LUT",
-    "path": "folders/Sprites/spr_licensed/Lighting/LUT.yy",
+    "path": "folders/Sprites/spr_licensed/lic005_Lighting/LUT.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_lut_light_intensity_line",

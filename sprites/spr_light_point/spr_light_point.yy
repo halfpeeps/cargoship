@@ -69,8 +69,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Lighting",
-    "path": "folders/Sprites/spr_licensed/Lighting.yy",
+    "name": "lic005_Lighting",
+    "path": "folders/Sprites/spr_licensed/lic005_Lighting.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_light_point",

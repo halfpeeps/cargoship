@@ -3,7 +3,7 @@
   "isCompatibility": false,
   "parent": {
     "name": "Misc",
-    "path": "folders/Scripts/licensed/Lighting/Lights/Misc.yy",
+    "path": "folders/Scripts/licensed/lic001_Lighting/Lights/Misc.yy",
   },
   "resourceVersion": "1.0",
   "name": "light_create_extension",

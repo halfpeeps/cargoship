@@ -2,11 +2,11 @@
   "isDnD": false,
   "isCompatibility": false,
   "parent": {
-    "name": "Misc",
-    "path": "folders/Scripts/licensed/lic001_Lighting/Lights/Misc.yy",
+    "name": "lic002_type_text",
+    "path": "folders/Scripts/licensed/lic002_type_text.yy",
   },
   "resourceVersion": "1.0",
-  "name": "light_ignore_shadow_caster",
+  "name": "scr_type_text",
   "tags": [],
   "resourceType": "GMScript",
 }

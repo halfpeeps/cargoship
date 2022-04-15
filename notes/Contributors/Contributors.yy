@@ -1,7 +1,7 @@
 {
   "parent": {
-    "name": "Lighting",
-    "path": "folders/Notes/subsystems/Lighting.yy",
+    "name": "lic001_Lighting",
+    "path": "folders/Notes/subsystems/lic001_Lighting.yy",
   },
   "resourceVersion": "1.1",
   "name": "Contributors",

@@ -2,8 +2,8 @@
   "isDnD": false,
   "isCompatibility": false,
   "parent": {
-    "name": "Lighting",
-    "path": "folders/Scripts/licensed/Lighting.yy",
+    "name": "lic001_Lighting",
+    "path": "folders/Scripts/licensed/lic001_Lighting.yy",
   },
   "resourceVersion": "1.0",
   "name": "composite_shadow_map",
