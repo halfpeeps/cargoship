@@ -1,7 +1,7 @@
 {
   "option_windows_display_name": "Cargoship",
   "option_windows_executable_name": "${project_name}.exe",
-  "option_windows_version": "0.0.1.1",
+  "option_windows_version": "0.1.1.1",
   "option_windows_company_info": "HALF PEEPS",
   "option_windows_product_info": "proj: Cargoship",
   "option_windows_copyright_info": "",

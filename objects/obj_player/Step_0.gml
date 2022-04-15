@@ -12,6 +12,9 @@ if(null_input_check.ctrlcheck_test_text = 1)
 }
 
 ///movement
+curr_x = x
+curr_y = y
+
 if(in_menu == 0)
 {
 
@@ -48,6 +51,12 @@ if(in_menu == 0)
 	{
 	    x += lengthdir_x(key_speed*playerSpeed,key_dir);
 	}
+	
+	if(place_meeting(x, y, null_interactable))
+{
+	x = curr_x
+}
+
  
 	//Vertical (Y)
 	if place_meeting(x,y+(sign(key_vert)*8),null_par_collision){
@@ -78,6 +87,13 @@ if(in_menu == 0)
 	    sprinting = false;
 	    playerSpeed = 3;
 	}
+}
+
+
+if(place_meeting(x, y, null_interactable))
+{
+	y = curr_y
+	
 }
 
 //create larger hitbox

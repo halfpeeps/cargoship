@@ -70,7 +70,7 @@
   "nineSlice": null,
   "parent": {
     "name": "intro",
-    "path": "folders/Sprites/intro.yy",
+    "path": "folders/Legacy/intro.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_halfpeeps",
