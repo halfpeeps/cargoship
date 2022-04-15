@@ -3,7 +3,7 @@
   "isCompatibility": false,
   "parent": {
     "name": "Internal",
-    "path": "folders/Scripts/subsystems/Lighting/Misc/Internal.yy",
+    "path": "folders/Scripts/licensed/Lighting/Misc/Internal.yy",
   },
   "resourceVersion": "1.0",
   "name": "cross_product",

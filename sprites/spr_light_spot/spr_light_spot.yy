@@ -72,7 +72,7 @@
   "nineSlice": null,
   "parent": {
     "name": "Lighting",
-    "path": "folders/Sprites/subsystems/Lighting.yy",
+    "path": "folders/Sprites/spr_licensed/Lighting.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_light_spot",

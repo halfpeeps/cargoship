@@ -3,7 +3,7 @@
   "isCompatibility": false,
   "parent": {
     "name": "Internal",
-    "path": "folders/Scripts/subsystems/Lighting/Lights/Internal.yy",
+    "path": "folders/Scripts/licensed/Lighting/Lights/Internal.yy",
   },
   "resourceVersion": "1.0",
   "name": "light_maintain_shadow_map",

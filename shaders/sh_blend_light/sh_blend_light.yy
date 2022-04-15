@@ -2,7 +2,7 @@
   "type": 1,
   "parent": {
     "name": "Lighting",
-    "path": "folders/Shaders/subsystems/Lighting.yy",
+    "path": "folders/Shaders/licensed/Lighting.yy",
   },
   "resourceVersion": "1.0",
   "name": "sh_blend_light",

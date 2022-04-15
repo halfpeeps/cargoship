@@ -3,7 +3,7 @@
   "isCompatibility": false,
   "parent": {
     "name": "Misc",
-    "path": "folders/Scripts/subsystems/Lighting/Misc.yy",
+    "path": "folders/Scripts/licensed/Lighting/Misc.yy",
   },
   "resourceVersion": "1.0",
   "name": "polygon_create",

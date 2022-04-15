@@ -3,7 +3,7 @@
   "isCompatibility": false,
   "parent": {
     "name": "Lighting",
-    "path": "folders/Scripts/subsystems/Lighting.yy",
+    "path": "folders/Scripts/licensed/Lighting.yy",
   },
   "resourceVersion": "1.0",
   "name": "composite_shadow_map",

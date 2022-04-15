@@ -30,7 +30,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "Lighting",
-    "path": "folders/Objects/subsystems/Lighting.yy",
+    "path": "folders/Objects/licensed/Lighting.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_light_renderer",
