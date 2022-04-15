@@ -32,17 +32,17 @@ if(in_menu == 0)
  
 	///Collisions and Movement
 	///Horizontal (X)
-	if place_meeting(x+(sign(key_hor)*8),y,null_par_collision){
+	if place_meeting(x+(sign(key_hor)*8),y,null_data_hold){
  
-	    while !place_meeting(x+(sign(key_hor)*4),y,null_par_collision){
+	    while !place_meeting(x+(sign(key_hor)*4),y,null_data_hold){
 	        x += key_hor;
 	    }
  
-	    if place_meeting(x+(sign(key_hor)*8),y+16,null_par_collision){
+	    if place_meeting(x+(sign(key_hor)*8),y+16,null_data_hold){
 	        y = y - 4;
 	    }
  
-	    if place_meeting(x+(sign(key_hor)*8),y-16,null_par_collision){
+	    if place_meeting(x+(sign(key_hor)*8),y-16,null_data_hold){
 	        y = y + 4;
 	    }
  
@@ -53,9 +53,14 @@ if(in_menu == 0)
 	}
 	
 	if(place_meeting(x, y, null_interactable))
-{
+	{
 	x = curr_x
-}
+	}
+	
+	if(place_meeting(x, y, null_par_collision))
+	{
+	x = curr_x
+	}
 
  
 	//Vertical (Y)
@@ -87,14 +92,23 @@ if(in_menu == 0)
 	    sprinting = false;
 	    playerSpeed = 3;
 	}
-}
-
-
-if(place_meeting(x, y, null_interactable))
-{
+	
+	
+	if(place_meeting(x, y, null_interactable))
+	{
 	y = curr_y
 	
+	}
+	
+		if(place_meeting(x, y, null_par_collision))
+	{
+	y = curr_y
+	
+	}
+
 }
+
+
 
 //create larger hitbox
 if(!instance_exists(obj_player_hitbox))
