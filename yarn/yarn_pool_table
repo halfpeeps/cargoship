@@ -1,0 +1,28 @@
+#__PrivCrochet_version:1
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: 1169,582
+__PrivCrochet_tags: obj_pool_table
+obj_pool_table:
+title: Start
+---
+This is a pool table
+We could play pool?
+Yes<<jump obj_pool_table Yes>>
+No<<jump obj_pool_table No>>
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: 1477,644
+__PrivCrochet_tags: obj_pool_table
+obj_pool_table:
+title: obj_pool_table No
+---
+Maybe another time
+===
+__PrivCrochet_colorID: 0
+__PrivCrochet_position: 1514,378
+__PrivCrochet_tags: obj_pool_table
+obj_pool_table:
+title: obj_pool_table Yes
+---
+That isn't actually a feature yet so maybe another time
+===
