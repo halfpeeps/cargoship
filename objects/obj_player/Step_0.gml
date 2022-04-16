@@ -1,14 +1,8 @@
-///Check to see if in menu
-if(null_input_check.ctrlcheck_interact_menu = 1)
-{
-	in_menu = !in_menu
-}
-
 ///movement
 curr_x = x
 curr_y = y
 
-if(in_menu == 0)
+if(!in_menu)
 {
 
 	Key_Left = keyboard_check_direct(ord("A"));
@@ -108,4 +102,26 @@ if(!instance_exists(obj_player_hitbox))
 {
 	instance_create_layer(x, y, "layer_player", obj_player_hitbox)
 	show_debug_message("player_hitbox created")
+}
+
+
+
+
+
+//Interact
+if(!in_menu)
+{
+	if(instance_exists(null_input_check))
+	{
+		if(null_input_check.ctrlcheck_interact = true)
+		{
+			interact_obj = instance_nearest(x, y, null_interactable)
+			if(collision_circle(x, y, 50, interact_obj, false, true))
+			{
+				interact_obj.interact = true
+				
+				
+			}
+		}
+	}
 }
