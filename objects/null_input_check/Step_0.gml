@@ -1,9 +1,14 @@
 //Interaction key check
-if(keyboard_check_direct(ord("E")))
+if(keyboard_check(ord("E")))
 {
-	ctrlcheck_interact = true
+	if(holdcount_interact == 0)
+	{
+		ctrlcheck_interact = true
+	}
+	holdcount_interact = holdcount_interact + 1
 }
-else
+if(!keyboard_check(ord("E")))
 {
 	ctrlcheck_interact = false
+	holdcount_interact = 0
 }
