@@ -27,6 +27,7 @@
   "properties": [],
   "overriddenProperties": [
     {"propertyId":{"name":"linked_txt","path":"objects/null_interactable/null_interactable.yy",},"objectId":{"name":"null_interactable","path":"objects/null_interactable/null_interactable.yy",},"value":"txt_pool_table","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+    {"propertyId":{"name":"type_shake","path":"objects/null_interactable/null_interactable.yy",},"objectId":{"name":"null_interactable","path":"objects/null_interactable/null_interactable.yy",},"value":"False","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
   ],
   "parent": {
     "name": "furniture",

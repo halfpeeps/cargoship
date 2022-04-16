@@ -1,1 +1,0 @@
-text = null_data_hold.obj_ui_vo_box_text

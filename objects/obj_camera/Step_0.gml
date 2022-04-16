@@ -7,9 +7,11 @@ if (instance_exists(follow))
 }
 
 //move cam
-x = x + (xTo - x) / 25;
-y = y + (yTo - y) / 25;
-
+if(!obj_player.in_menu)
+{
+	x = x + (xTo - x) / 25;
+	y = y + (yTo - y) / 25;
+}
 
 ////deathcam, zoom
 //if(instance_exists(obj_player_dead))

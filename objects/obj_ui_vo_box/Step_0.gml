@@ -1,7 +1,2 @@
-if(null_input_check.ctrlcheck_test_text = 1)
-{
-	instance_destroy()
-}
-
 x = obj_camera.x
-y = obj_camera.y + 45
+y = obj_camera.y + (camera_get_view_height(obj_camera.cam)) / 8

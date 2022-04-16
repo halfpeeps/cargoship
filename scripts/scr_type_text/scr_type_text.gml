@@ -20,7 +20,7 @@ function scr_type_text(argument0, argument1, argument2, argument3, argument4, ar
 
 	type_X = argument0;
 	type_Y = argument1;
-	object = instance_create_layer(type_X, type_Y, "layer_ui", obj_ui_type_text)
+	object = instance_create_layer(type_X, type_Y, "layer_null", obj_ui_type_text)
 
 	object.type_font = argument2;
 	object.type_halign = argument3;

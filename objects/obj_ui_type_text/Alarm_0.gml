@@ -4,7 +4,8 @@ if (effekt_1 == false) {
 		ausgabe += string(buchstabe);
 		anfangs_zahl += 1;
 		alarm[0] = type_speed;
-		if(audio_play == true && audio_is_playing(snd_type) == false){
+		if(audio_play == true && audio_is_playing(snd_type) == false)
+		{
 			audio_play_sound(snd_type,100,false);
 		}
 	}else{
